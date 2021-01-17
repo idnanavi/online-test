@@ -21,3 +21,4 @@ function anagrams() {
         console.log(word)
     }
 }
+anagrams()
